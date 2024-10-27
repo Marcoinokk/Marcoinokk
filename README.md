@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @MarcoChiong 
-- 👀 I’m interested in ... VideoGames, Calisthenics 
-- 🌱 I’m currently learning ... Python, SQL, React 
+Cybersecurity and data analytics professional skilled in Python and SQL, with experience in digital transformation and data-driven growth. Passionate about leveraging tech for impactful solutions.
+
